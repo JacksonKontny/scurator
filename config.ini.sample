@@ -1,0 +1,20 @@
+[mongodb]
+host_name=mongodb://localhost/test
+db_name=test
+
+[steem]
+nodes=["wss://gtg.steem.house:8090",
+       "wss://seed.bitcoiner.me"]
+wif=<WIF HERE>
+
+[miner]
+category=crypto-news
+expiration_minutes=360
+sleep_time=3
+
+[voter]
+voter=<voter name>
+
+[curator]
+vote_limit=11
+run_hours=24
