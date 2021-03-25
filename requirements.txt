@@ -24,7 +24,7 @@ pylibscrypt==1.7.1
 pymongo==3.6.0
 python-dateutil==2.6.1
 python-frontmatter==0.4.2
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 scrypt==0.8.0
 simplegeneric==0.8.1
