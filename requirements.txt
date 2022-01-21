@@ -8,7 +8,7 @@ funcy==1.10
 graphenelib==0.5.5
 idna==2.6
 ipdb==0.10.3
-ipython==6.2.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.11.1
 parso==0.1.1
